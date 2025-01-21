@@ -20,7 +20,7 @@ This repository contains an example implementation of an AI fitness agent built 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-fitness-agent.git
+git clone https://github.com/mossydidar/ai-fitness-agent.git
 cd ai-fitness-agent
 ```
 
